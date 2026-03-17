@@ -1,0 +1,20 @@
+[
+  {
+    "repository": "Kaveer2009/android_device_xiaomi_onyx-kernel",
+    "target_path": "device/xiaomi/onyx-kernel",
+    "branch": "16.2",
+    "remote": "github"
+  },
+  {
+    "repository": "Kaveer2009/proprietary_vendor_xiaomi_onyx",
+    "target_path": "vendor/xiaomi/onyx",
+    "branch": "16.2",
+    "remote": "github"
+  },
+  {
+    "repository": "Kaveer2009/hardware_xiaomi",
+    "target_path": "hardware/xiaomi",
+    "remote": "github",
+    "branch": "16.2"
+  }
+]
